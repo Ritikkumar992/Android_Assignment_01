@@ -31,15 +31,15 @@
 "380px " width = "200p">
 
 # Mobile _Version_04 📱 Handle Edge Cases ⚠️ 
+<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/1c260574-bea8-4070-8003-6af1b5ef73ab" height = 
+"380px " width = "200p">
+<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/932d1de0-b85b-4910-bddd-e32386434568" height = 
+"380px " width = "200p">
+<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/40da3c2c-2027-41f1-b409-b3eb8a886df1" height = 
+"380px " width = "200p">
+<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/cbd91352-102f-4783-879a-a1fda261a6f0" height = 
+"380px " width = "200p">
 1. If user doesn't enter any value.
 2. If user enter only dot(.).
 3. If user enter more than 10 digit number.
 4. if the user doesn't press the back button of second Activity but press the back button of phone screen.
-<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/1c260574-bea8-4070-8003-6af1b5ef73ab" height = 
-"380px " width = "180p">
-<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/932d1de0-b85b-4910-bddd-e32386434568" height = 
-"380px " width = "180p">
-<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/40da3c2c-2027-41f1-b409-b3eb8a886df1" height = 
-"380px " width = "180p">
-<img src = "https://github.com/Ritikkumar992/Android_Assignment_01/assets/75531808/cbd91352-102f-4783-879a-a1fda261a6f0" height = 
-"380px " width = "180p">
