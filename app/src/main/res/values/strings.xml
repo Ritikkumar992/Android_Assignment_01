@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Assignment</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="result">Result :</string>
+    <string name="activity_02">Activity_02</string>
+    <string name="activity_01">Activity_01 </string>
+    <string name="next"><![CDATA[Next->]]></string>
+    <string name="back"><![CDATA[<-Back]]></string>
+    <string name="received_number_is">Received Number is :</string>
+</resources>

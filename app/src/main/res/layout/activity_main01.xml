@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_01"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/activity_01"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="@color/yellow"
+        />
+    <EditText
+        android:id="@+id/inputNo_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_your_number"
+        android:textColorHint="#434445"
+        android:textSize="18sp"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_marginTop="16dp"
+        android:autofillHints=""
+        />
+    <Button
+        android:id="@+id/submitBtn_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        />
+    <TextView
+        android:id="@+id/result_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        />
+
+</LinearLayout>
