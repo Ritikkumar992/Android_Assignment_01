@@ -52,6 +52,7 @@ public class MainActivity_01 extends AppCompatActivity {
                     startActivityForResult(intent,1);
                 }
             }
+            // function to check the size of the string.
             public boolean isValid(String s){
                 int len = 0;
                 for(int i= 0;i<s.length();i++){
